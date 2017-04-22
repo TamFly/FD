@@ -1,0 +1,72 @@
+Timesheet_1
+What is Timesheet used for ?
+Recording effort spent on various activities
+
+Timesheet_2
+If you want to view your timesheet in specific period of time, what would you do
+Both of them are correct
+
+Timesheet_3	If you review customer source code to understand business logic of the software, which type of work do you record for
+Study
+
+Timesheet_4	If you code test script/test tool for the project, which process do you record for
+Test
+
+Timesheet_5	If you develop User manual, which process would you record for
+Coding
+
+Timesheet_6	If you attend the weekly meeting of the project, which process would you record for
+Software project management
+
+Timesheet_7	If you study on a new language that will be used in your project, which process would you record for
+Training
+
+Timesheet_8	If you are tester, you conduct CODE REVIEW, which process would you record for
+Coding, with type is REVIEW
+
+Timesheet_9	Is it correct if TS description is "Coding and unit test"
+No
+
+Timesheet_10
+If you fix bugs of which origin is from previous project, which type of work you should choose
+Create
+
+Timesheet_11
+If you packaged the software and check virus before release to customer, which process would you report for
+Deployment
+
+Timesheet_12
+If you want to update your timesheets that were already approved by Project Meader or QA, how can you do
+Ask PL or QA to reject those Timesheets, then update them
+
+Timesheet_13
+If you install the software for customer to do acceptance test, which process would you choose?
+Deployment
+
+Timesheet_14
+If you prepare for detail design review, inform and send documents, records to related interfaces, what type of work would you choose?
+Review
+
+Timesheet_15
+When you Verify tools for coding, which process would you choose?
+Coding
+
+Timesheet_16
+You are a PM, and you need to manage requirement status of Project, &nbsp;which process would you choose?
+Requirement
+
+Timesheet_17
+When you Identify and set up environment for test, &nbsp;which process would you choose?
+Test
+
+Timesheet_18
+When you study requirement before coding, &nbsp;which process would you choose?
+Requirement
+
+Timesheet_19
+When you develop installation manual, &nbsp;which process would you choose?
+Deployment
+
+Timesheet_20
+When you conduct unit test, &nbsp;which process would you choose?
+Test
